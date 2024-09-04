@@ -4,7 +4,7 @@ import lombok.*;
 
 @Data @Builder @NoArgsConstructor @AllArgsConstructor
 
-public class Voiure {
+public class Voiture {
     private int id;
     private String marque;
     private int anneeFab;
